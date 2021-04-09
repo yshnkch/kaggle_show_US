@@ -73,3 +73,7 @@ Note that the **hidden test set has roughly ~8000 publications, many times the s
 - やたら数の多いpublicationあり（偏りがある）
 - ジャンル幅広・・・農業からアルツハイマーから教育から鳥の繁殖からCOVIDまで
 - やはりCOVID多いな（なお表記揺れあり e.g.「covid」と「SARS-CoV-2」）
+
+EDA:
+- json形式のファイルをpandas DataFrameに落とし込む
+https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/discussion/230341
