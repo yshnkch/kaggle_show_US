@@ -1,5 +1,10 @@
 # kaggle_show_US
 
+# Basic info
+URL: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data
+
+# Diary
+
 2021年4月9日（金）
 まずはEDA、問題理解
 
